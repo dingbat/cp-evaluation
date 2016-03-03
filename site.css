@@ -1,9 +1,16 @@
 body {
+    background-color: black;
+    color: white;
+}
+
+body:a {
+    color: yellow;
 }
 
 h1 {
 }
 
 h2 {
+    text-align: center;
 }
 
